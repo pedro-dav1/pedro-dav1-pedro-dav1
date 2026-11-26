@@ -43,30 +43,34 @@ modelagem, automação de CRM (HubSpot Sales Hub), pipelines e dashboards.
 ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white)
 
+**IA generativa**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
 **CRM e operação comercial**
 
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 
-
 ## Projetos em destaque
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [analise-olist-ecommerce](link) | Análise de e-commerce BR com dashboard | Databricks, Power BI |
-| [rag-franchising-abf](link) | RAG sobre pesquisa de franchising | Python, LangChain |
+| [rag-analise-mercado-franchising](https://github.com/pedro-dav1/rag-analise-mercado-franchising) | RAG em português para consultar relatórios de mercado, com respostas restritas ao documento e páginas de origem | Python, LangChain, ChromaDB |
 
 ## Estatísticas
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedro-dav1&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-dav1&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-dav1&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pedro-davi-silva/](https://www.linkedin.com/in/pedro-davi-silva/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lilpdsc@mail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-davi-silva/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lilpdsc@mgmail.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" />
