@@ -21,4 +21,4 @@ operação comercial: CRM, automação e análise.
 - Pipeline RAG | Análise de Franchising (link):
 
 ## Contato
-[LinkedIn](https://linkedin.com/in/seu-perfil)
+[LinkedIn](https://www.linkedin.com/in/pedro-davi-silva/)
